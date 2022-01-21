@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ChatList">
+        <attr name="titletextcolor" format="color" />
+        <attr name="messagetextcolor" format="color" />
+        <attr name="timevisiblity" format="boolean" />
+        <attr name="timetextcolor" format="color" />
+        <attr name="countbackgroundcolor" format="color" />
+        <attr name="counttextcolor" format="color" />
+        <attr name="backgroundColor" format="color" />
+        <attr name="countvisibility" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="Chatui">
+        <attr name="backiconvisibility" format="boolean" />
+        <attr name="backiconcolor" format="color" />
+        <attr name="menuiconvisibility" format="boolean" />
+        <attr name="profileimageurl" format="string" />
+    </declare-styleable>
+    <declare-styleable name="ItemMessage">
+
+    </declare-styleable>
+</resources>

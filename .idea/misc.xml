@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.215625" />
+        <entry key="app/src/main/res/layout/activity_chatting_page.xml" value="0.20052083333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
+        <entry key="app/src/main/res/layout/activity_new_chatting_page.xml" value="0.20052083333333334" />
+        <entry key="app/src/main/res/layout/activity_profile_selection.xml" value="0.21458333333333332" />
+        <entry key="app/src/main/res/layout/chat_adapter.xml" value="0.21458333333333332" />
+        <entry key="app/src/main/res/layout/chat_list_adapter.xml" value="0.20052083333333334" />
+        <entry key="app/src/main/res/layout/item_message.xml" value="0.21458333333333332" />
+        <entry key="app/src/main/res/menu/chatmenu.xml" value="0.20052083333333334" />
+        <entry key="twinklechat/src/main/res/drawable/chatbox.xml" value="0.21666666666666667" />
+        <entry key="twinklechat/src/main/res/drawable/chattextback.xml" value="0.21666666666666667" />
+        <entry key="twinklechat/src/main/res/drawable/countclourback.xml" value="0.21666666666666667" />
+        <entry key="twinklechat/src/main/res/drawable/ic_arrow_left.xml" value="0.21666666666666667" />
+        <entry key="twinklechat/src/main/res/drawable/ic_message_box.xml" value="0.2111111111111111" />
+        <entry key="twinklechat/src/main/res/drawable/ic_message_box_right.xml" value="0.33" />
+        <entry key="twinklechat/src/main/res/drawable/ic_radio_button_off_sharp.xml" value="0.21666666666666667" />
+        <entry key="twinklechat/src/main/res/layout/activity_chat_page.xml" value="0.22" />
+        <entry key="twinklechat/src/main/res/layout/chatlist.xml" value="0.25" />
+        <entry key="twinklechat/src/main/res/layout/item_message.xml" value="0.25" />
+        <entry key="twinklechat/src/main/res/menu/chatmenu.xml" value="0.20052083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

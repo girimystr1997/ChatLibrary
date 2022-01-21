@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "732337373321",
+    "firebase_url": "https://testjavamessaging.firebaseio.com",
+    "project_id": "testjavamessaging",
+    "storage_bucket": "testjavamessaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732337373321:android:85cdffca392d34375d4658",
+        "android_client_info": {
+          "package_name": "com.twinkle.chatversionone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732337373321-jcbhjhejaifveadhe9h06f7688l3p9up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKW5oEQg0liVrJDgVJmSj0RUriKhzgTRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732337373321-jcbhjhejaifveadhe9h06f7688l3p9up.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "732337373321-lttl8u74idc1kulrarucqs16qvokeqvl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.twinkle.TwinkleDocument"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
