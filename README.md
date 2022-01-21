@@ -1,2 +1,2 @@
 # ChatLibrary
-An Android Library for images
+An Android Library for chat
